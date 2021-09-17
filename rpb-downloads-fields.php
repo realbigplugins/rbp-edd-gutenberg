@@ -3,6 +3,8 @@
  * Plugin Name: RBP EDD Gutenberg
  * Description: Enables the block editor on EDD's "Downloads" post type
  * Version: 1.0.0
+ * Requires at least: 5.0.0
+ * Requires PHP: 7.0
  * Text Domain: rbp-edd-gutenberg
  * Author: Real Big Marketing
  * Author URI: http://realbigmarketing.com
